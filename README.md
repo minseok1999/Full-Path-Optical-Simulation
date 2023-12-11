@@ -1,5 +1,5 @@
 # Full-Path-Optical-Simulation
-In my personal library, I implemented a simulation of a 4f-imaging optical setup, as illustrated and described in this poster presentation:
+I implemented a simulation of a 4f-imaging optical setup, as illustrated and described in this poster presentation:
 
 Link to Poster Presentation
 [Link to Poster Presentation](https://drive.google.com/file/d/1Nxux5ik8e9V55QvRewgGOjwBefgdOZGR/view)
